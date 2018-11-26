@@ -60,7 +60,6 @@ class Home extends Component {
                 </div>
 			))}
         </div>
-          {/* search button component */}
           <AddSearchButton/>
       </div>
     )
